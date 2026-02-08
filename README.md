@@ -4,6 +4,7 @@
 
 - [Markdown Files](#markdown-files)
 - [Problems with Gemini Results](#problems-with-gemini-results)
+- [Final Game Plan](#final-game-plan)
 
 ## Markdown Files
 
