@@ -4,6 +4,22 @@ I provide my needs and rules and recourses in following steps and your duty is t
 
 ## Needs
 
+- What tools/libraries are most needed? (assuming the project is being coded in python)
+- What methods are needed? (for _tool calling approach_)
+- How can this project become a more serious one? (currently it's a personal spare time project and nothing more.)
+
 ## Rules
 
+- Do NOT write any code. Just provide titles and names for tools. 
+- Tool names must be comprehensive _snake case_ python names, all in lowercase letters. 
+- No classes are allowed. OOP is banned in this household. 
+
 ## Resources
+
+- Multiple OpenAI compatible API's (Open Router, Novita, Nebius, Fal AI)
+- Ollama resource (local and cloud)
+- A 3050 GPU on a gaming laptop 
+- Multiple GPU pods on RunPod (around $200 worth of credits)
+- Possibilities of grants from different companies (like Modal)
+
+Based on these, design the best game plan possible.
