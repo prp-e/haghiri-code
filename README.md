@@ -2,10 +2,15 @@
 
 ## Table of contents
 
+- [Current status](#current-status)
 - [Markdown Files](#markdown-files)
 - [Problems with Gemini Results](#problems-with-gemini-results)
 - [Final Game Plan](#final-game-plan)
 - [Implementation](#implementation)
+
+## Current status 
+
+I just keep this on hold. I don't know, living a noisy environment and having an unstable as hell internet drove me crazy enough.
 
 ## Markdown Files
 
