@@ -39,3 +39,7 @@ Here is the place to discuss the final game plan and it might be updated in late
 The text above, shows how dedicated this tool will be to _startup/business development_ more than anything else. 
 
 ## Implementation
+
+In order to implement this project, I've been walking through different steps. 
+
+1. Reading User's credentials from a `.env` file, which is much more sophisticated and _professional looking_ than the traditional way of using `config.py` file I usually use.
