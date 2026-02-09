@@ -44,3 +44,4 @@ In order to implement this project, I've been walking through different steps.
 
 1. Reading User's credentials from a `.env` file, which is much more sophisticated and _professional looking_ than the traditional way of using `config.py` file I usually use.
 2. Creating a simple _Agent_ class which is defying the _no classes allowed_ idea to some extent, but it works and is apparently one of the best ideas to mess around with in ReAct agents.
+3. Basic agent is basically compeleted. Now, we need to define our tools, system prompts, etc. 
