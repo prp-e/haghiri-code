@@ -5,6 +5,7 @@
 - [Markdown Files](#markdown-files)
 - [Problems with Gemini Results](#problems-with-gemini-results)
 - [Final Game Plan](#final-game-plan)
+- [Implementation](#implementation)
 
 ## Markdown Files
 
@@ -36,3 +37,5 @@ Here is the place to discuss the final game plan and it might be updated in late
 3. Expanding it to different sides of startup development, not only creating the code for MVP's, but also contents for marketing, etc. 
 
 The text above, shows how dedicated this tool will be to _startup/business development_ more than anything else. 
+
+## Implementation
