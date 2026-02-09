@@ -17,4 +17,23 @@ class Agent:
                     "content" : system_prompt
                 }
             )
+    def __call__(self, message):
+
+        self.messages.append(
+            {
+                "role" : "user",
+                "content" : message
+            }
+        )
+
+        result = self.execute()
+
+        self.messages.append(
+            {
+                "role" : "assistant",
+                "content" : result
+            }
+        )
     
+    def execute(self):
+        pass
