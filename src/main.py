@@ -41,4 +41,11 @@ class Agent:
         )
     
     def execute(self):
-        pass
+        
+        result = client.chat.completions.create(
+            model = os.environ["MODEL"],
+            messages = self.messages,
+            temperature = 0.0 
+        )
+
+        return result.choices[0].message.content
